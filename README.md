@@ -26,4 +26,4 @@ Here are some technologies and tools I've been working with:
 ## 💻 OS
 ![Windows 11](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white) ![Manjaro](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
 
-![Rokuazery's GitHub stats](https://github-readme-stats.vercel.app/api?username=rokuazery&show_icons=false&include_all_commits=true&theme=radical)
+![Rokuazery's GitHub stats](https://github-readme-stats.vercel.app/api?username=rokuazery&show_icons=false&include_all_commits=false&count_private=true&theme=radical)
