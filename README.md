@@ -1,13 +1,7 @@
 <img align="right" src="https://tenor.com/view/cute-animals-mochi-mochi-peach-cat-goma-cat-wave-gif-17543358.gif" width="136">
 
 ## 👋 Hello, I'm Rokuazery! 
-Hello! I'm Rokuazery, a high school student with a passion for coding and a strong drive for self-improvement. 💻
-
-Coding has become my creative outlet, bringing me immense joy as I explore new concepts and learn. Through self-teaching, I've built a solid foundation and continuously enhance my coding skills through hands-on projects.
-
-I'm always eager to embrace new technologies and stay updated with industry trends to keep evolving and expanding my knowledge.
-
-I believe that coding has the power to shape the future and solve real-world problems.
+Hello! I'm Rokuazery, a high school student that likes to code in my free time.
 
 ## 🔧 Tech Stack
 
