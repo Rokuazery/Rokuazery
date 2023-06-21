@@ -1,7 +1,7 @@
 <img align="right" src="https://tenor.com/view/cute-animals-mochi-mochi-peach-cat-goma-cat-wave-gif-17543358.gif" width="136">
 
 ## 👋 Hello, I'm Rokuazery! 
-Hello! I'm Rokuazery, a high school student that likes to code in my free time.
+I'm a high school student that likes to code in my free time. 😊
 
 ## 🔧 Tech Stack
 
