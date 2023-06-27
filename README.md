@@ -1,7 +1,10 @@
 <img align="right" src="https://tenor.com/view/cute-animals-mochi-mochi-peach-cat-goma-cat-wave-gif-17543358.gif" width="136">
 
 ## 👋 Hello, I'm Rokuazery! 
-I'm a high school student that likes to code in my free time. 😊
+### I'm a high school student that likes to code in my free time. 😊
+- I'm currently working on a game called Mystic Mayhem (a private project/repository) that will be released to the public as soon as it is ready.
+
+
 
 ## 🔧 Tech Stack
 
